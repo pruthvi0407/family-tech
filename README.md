@@ -1,2 +1,3 @@
 # family-tech
-For my family
+For my smart family
+echo "hello family"
